@@ -4,7 +4,8 @@
 ## 들을 강의
 
 nomad coders - 바닐라 JS로 크롭 앱 만들기
-https://nomadcoders.co/javascript-for-beginners
+
+링크: https://nomadcoders.co/javascript-for-beginners
 
 ## 들을 강의 범위
 
