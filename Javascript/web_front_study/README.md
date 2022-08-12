@@ -55,18 +55,9 @@ nomad coders - 바닐라 JS로 크롭 앱 만들기
     * preventDefault()를 이용해 브라우저의 새로고침을 막을 수 있다.
 * #4.4
     * document.querySelector('...').classList.add / remove를 통해 적용된 html class를 추가하거나 없앨 수 있다.
-    * `₩${변수명}₩`을 통해 문자열을 생성할 수 있다.
+    * document.querySelector('...').innertext를 통해 html안에 텍스트를 넣을 수 있다.
+    * `(백틱기호)${변수명}(백틱기호)`을 통해 변수를 문자열 안에 포함시킬 수 있다.
 * #4.5
-    * 
-    * 
-    * 
-* #4.6
-    * 
-    * 
-    * 
-* #4.7
-    * 
-    * 
-    * 
+    * localStorage.setItem/getItem/removeItem('', '')를 통해 브라우저의 로컬 스토리지에 값을 저장하거나 불러오거나 삭제할 수 있다.
 
 
