@@ -56,8 +56,25 @@ nomad coders - 바닐라 JS로 크롭 앱 만들기
 * #4.4
     * document.querySelector('...').classList.add / remove를 통해 적용된 html class를 추가하거나 없앨 수 있다.
     * document.querySelector('...').innertext를 통해 html안에 텍스트를 넣을 수 있다.
-    * `${변수명}`을 통해 변수를 문자열 안에 포함시킬 수 있다.
+    * `${변수명}`을 통해 변수를 문자열 안에 포함시킬 수 있다. (작은 따옴표가 아닌 백틱기호 사용 필요)
 * #4.5
     * localStorage.setItem/getItem/removeItem('', '')를 통해 브라우저의 로컬 스토리지에 값을 저장하거나 불러오거나 삭제할 수 있다.
 
+#### 08/12(금) ~ 08/19(금)
 
+* #5.0
+    * setInterval 함수 개념에 대해 알 수 있다.
+* #5.1
+    * setTimeout 함수 개념에 대해 알 수 있다.
+    * Date 객체의 다양한 함수에 대해 알 수 있다. (getDate() / getDay() / getFullYear() / getHours() / getMinutes() / getSeconds() 등) 
+* #5.2
+    * padStart 함수 개념에 대해 알 수 있다.
+    * `padStart(<목표 문자열 길이>, <추가할 문자열>)`
+* #6.0
+    * Math 객체의 random 함수를 이용해 난수를 생성할 수 있다.
+    * Math 객체의 ceil / floor / round 함수에 대해 알 수 있다.
+    * length 함수를 이용해 배열의 길이를 알 수 있다.
+* #6.1
+    * createElement를 통해 javascript로 html 요소를 생성할 수 있다.
+    * appendChild를 통해 html 요소를 body 태그 안에 추가할 수 있다.
+    * `document.body.appendChild(<요소>)`
